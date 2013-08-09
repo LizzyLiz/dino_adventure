@@ -5,7 +5,7 @@ require_relative 'app\herbivore_story\herbivore.rb'
 
 set :method_override, true
 set :root, 'lib/app'
-jashdk;ahsd;jasd;lfjas;l
+
 #Paths
 not_found do
   erb :error
@@ -15,6 +15,18 @@ get '/' do
   erb :index
 end
 
-get '/death' do
-  erb :death
+get '/carn_death' do
+  erb :carn_death
+end
+
+get '/herb_death' do
+  erb :herb_death 
+end
+
+get '/triceratops_death' do
+  erb :triceratops_death
+end
+
+get '/rex_fight' do
+  erb :rex_fight
 end

@@ -48,3 +48,11 @@ end
 get '/herb_choice_J2' do
   erb :herb_choice_J2
 end
+
+get '/herb_eats' do
+  erb :herb_eats
+end
+
+get '/herb_run' do
+  erb :herb_run
+end

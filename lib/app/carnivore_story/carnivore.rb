@@ -48,3 +48,11 @@ end
 get '/carn_choice_J2' do
   erb :carn_choice_J2
 end
+
+get '/carn_eats' do
+  erb :carn_eats
+end
+
+get '/carn_run' do
+  erb :carn_run
+end
