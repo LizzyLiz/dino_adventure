@@ -1,0 +1,29 @@
+h1 {
+  background: rgba(50, 205, 50, .5);
+}
+
+body {
+	text-align: center;
+	background-color: #00CB9E;
+}
+
+button {
+  color: #00FFFF;
+  background-color: #00688B;
+  padding: 15px 30px 15px !important;
+  font-weight: bold;
+  border-radius: 100px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 100px;
+  border: 2px solid black;
+  cursor: pointer;
+  outline-color: blue;
+}
+
+button:hover {
+  color: #FFF;
+  background-color: #3A5FCD;
+  -webkit-box-shadow: 5px 5px 10px #666;
+  -moz-box-shadow: 5px 5px 10px #666;
+  box-shadow: 5px 5px 10px #666;
+}
