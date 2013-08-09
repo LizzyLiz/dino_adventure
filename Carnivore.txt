@@ -1,0 +1,53 @@
+Carnivore-
+A. Hello young one welcome to the world, you are what we call a T-Rex. A meat eating dinosaur and a future king of all dinos. Animals who only eat meat are called carnivores. Here is your first set of choices.
+1a.Try and eat your mother (Die)
+2a. Try and walk (go to B)
+3a.rest (go to B)
+
+B. Great you have the energy to walk. Lets venture out into the world and meet other dinosaurs.
+You see a dino in the distance what do you do, he seems very long and is eating a smaller dinosaur, what do you do
+1b. say hi (go to c)
+2b. steer clear ( go to e)
+3b. attack (die)
+
+C.  The Achillobator a raptor who is also a carnivore, known for being long and quick with sharp claws doesn’t harm you but offers you meat.
+1c. Eat ( go to D)
+2c. Say no go on (go to F)
+3c.kill him (go to H)
+
+D. You eat from the raptor and you guys become good friends. A few years have passed and you guys find other dinos and form a pack with an Aerosteon, known for being air brained, which your friend is but he is very nice and good at hunting.
+Now you guys are traveling around and see a herd of dinos eating grass, what do you do?
+1d.Attack (go to G)
+2d. Befriend them (die)
+3d. leave them (go to E)
+
+E. You leave the dino alone and go on about your daily life. Eventually you make more friends with other carnivore in including a Albertosaurus who is really greedy but is tough and likes to protct their mates.
+You hear rumors of mutany in your pack however so you come to the conclusion that you must elimate one of them in order to show dominance.
+1e.Eliminate the Albertosaurus (Die)
+2e. eliminate the Achillobator (Go to F)
+3e. Try and live with the mutany (Die)
+
+F. The Achillobator thanks you for not killing him and letting him eat and as the world around you seems to be changing you guys stick close by one another
+A meteor shower seems to have started around you, it was so sudden and half your pack is down. What do you do?
+1f. Leave your pack and try and survive(Go to J)
+2f. Save your best friend the Achillobator and leave the others (Go to J2)
+3f. Try and save everyone(Die)
+
+G.After attacking the herbivores you gain the support of your group and become their king. A few years pass and the temp feels really cold and you find out that the land might freeze over.
+1g.Gather your friends and head south( GO to J2)
+2g. Stick it out (Die)
+3g. Head south were it is warm (Go to J)
+
+H.Killing your first dino didn’t seem bad but now you have no real friends and other dinos avoid you
+Being alone you wonder about traveling north were no dinos are.
+1.Go north (Die)
+2.Go south(Go to J)
+3.Stay(Go to I)
+
+I. Many dinos hate your guts and start to pick fights with you and say they will kill you if you don’t leave.
+1.Stay and fight(die)
+2.Go north(die)
+3.Go south(go to J)
+
+J.You go south and you survive the mass extinction, and you meet a smaller dino that you mate with to try and keep your species alive and end up having tiny lizards that carry on your legacy.
+J2. You survive with your best friend and eventually mate and have small lizard kids. Now in this day and age your 10x great grandson sells car insurance.

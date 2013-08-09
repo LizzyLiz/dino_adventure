@@ -1,0 +1,50 @@
+Herbivore:
+A. Hello young one and welcome to the world. You are what we call a Triceritops. You are a plant eating dinosaur and a future king of all dinos. Animals who only eat plants are called herbivores. Here is your first set of choices.
+1a. Eat yummy looking thorn plants (Die)
+2a. Walk around and look for other Dinos (go to B)
+3a. Take a Nap (go to C)
+
+B. Lets venture out into the world and meet the other dinosaurs.
+You see a dino in the distance. He seems a little bigger than you and is some tasty looking plants. What do you do?
+1b. Say hi (go to D)
+2b. Steer clear (go to E)
+3b. Attack! (Die)
+
+C. After waking up, you feel very refreshed! You are very much able to walk around now! However, you feel very hungry, but you also want to say hi to all the other dinosaurs. What do you do?
+1c. Look for Food on your own (go to E)
+2c. Be social with other Dinos (go to B)
+3c. Force your parents to get food for you (Die)
+
+D. The Stegosaurus, a Dino known for its unusual posture, spiky back, and is also a herbivore. He seems friendly and doesn’t want harm you but instead offers you his plants. What do you do?
+1d. Eat with him (Go to F)
+2d. Say no and go about your business (Go to E)
+3d. Kill Him!! (Go to I)
+
+E. You come upon a place where there is a gigantic field filled with nothing but the most luxury food in all of Dino World! However, there is a herd of vicious Dinosaurs. What do you do?
+1e. Attempt to join their group (Go to G)
+2e. Try to sneak some food for yourself (Die)
+3e. Run away! (Go to H)
+
+F. You eat with the Stegosaurus and become best friends. As time passes, you notice the weather getting worse and worse. Stegosauruses are not very smart due to their small brain, and he does not know what to do. What will you do?!
+1f. Look for Help! (Go to E)
+2f. Go North (Die)
+3f. Run away by yourself! (Go to H)
+
+G. To your suprise, these vicious Dinos love you! The leader of the herd is the Giganotosaurus, who is one of the most aggressive dinosaurs of them all. He is gigantic, weighs over 8 tons, and is a carnivore who has 3 fingered hands and sharp claws to slay his prey.
+Everyone starts to notice now that the land is beginning to freeze over. All the Dinos are now in panic. What will you do with your newfound group?
+1g. Stick it out like a man (Die)
+2g. Run away by yourself! (Go to H)
+3g. Lead your village to safety! (Go to J2)
+
+H. After running away to a far off distance, you notice that there is a meteor shower that is starting. What are you going to do?
+1h. Go back and save the village (Go to J2)
+2h. Head south alone (Go to J)
+3h. Kill some Dinos and become ruler! (Go to I)
+
+I. After killing your first Dinosaur, people begin to hate you. Many Dinos want to get revenge on you and start to get aggressive. The T-Rex is especially mad at you because the Stegosaurus was one of his best friends. The T-Rex is extremely strong and deadly. Him and the other Dinos start to pick fights and say they will kill you if you dont leave. What do you do?
+1i. Head North (Die)
+2i. Stay and Fight (Die)
+3i. Go South (Go to J)
+
+J.You go south and you survive the mass extinction, and you meet a smaller dino that you mate with to try and keep your species alive and end up having tiny lizards that carry on your legacy
+J2. You survive with your best friend and eventually mate and have small lizard kids. Now in this day and age your 10x great grandson sells car insurance
