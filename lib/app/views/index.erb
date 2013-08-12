@@ -1,24 +1,30 @@
 <html>
-  <head><link rel="stylesheet" type="text/css" href="stylesheets\index_styles.css"></head>
+ <head><link rel="stylesheet" type="text/css" href="stylesheets\index_styles.css"></head>
   <body style="background-image: url('pics/homepage_background.jpg'); background-size: cover;">
     <h1>Welcome to the amazing Dino-Game!<br>Choose your Dinosaur!</h1>
-    <br><br>
     <a href="/herbivore">
       <button type="button">
-        <img src="pics/trex_button.jpg"><br>
+        <img src="pics/triceratops_button.jpeg"><br>
         <span>Triceratops<br>(Herbivore)</span>
       </button>
     </a>
     <a href="/carnivore">
       <button type="button">
+        <img src="pics/trex_button.jpg"><br>
         <span>T-Rex<br>(Carnivore)</span>
       </button>
     </a>
     <br>
     <a href="#">
-      <button type="button">
+      <button type="button" onclick="isLocked()">
+        <img src="pics/locked_dino_button.jpg"><br>
         <span>Oviraptor<br>(LOCKED)</span>
       </button>
     </a>
   </body>
+  <script>
+    function isLocked() {
+      alert("Sorry, this dinosaur is locked FOREVER!!!");
+    }
+  </script>
 </html>

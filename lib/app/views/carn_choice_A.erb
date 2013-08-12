@@ -2,13 +2,12 @@
 	<head>
 		<title>Carnivore Adventure</title>
 		<link rel="stylesheet" type="text/css" href="stylesheets\styles.css"></head>
-		<audio src = "music/trex_call.mp3" preload = "auto" autoplay></audio>
 	</head>
 	<body style="background-image: url('pics/TRex.jpg'); background-color: #FFF; background-size: cover;">
 		<h1>Hello young one welcome to the world, you are what we call a T-Rex. A meat eating dinosaur and a future king of all dinos. Animals who only eat meat are called carnivores. Here is your first set of choices.
 		</h1>
 		<a href="/carn_death">
-			<button type="button">
+			<button type="button" onclick="death()">
 				<span>Try to eat your mother</span>
 			</button>
 		</a>
@@ -23,4 +22,9 @@
 			</button>
 		</a>
 	</body>
+	<script>
+	function death() {
+		alert("When trying to eat your mother, your mother thinks that you are crazy and eats you instead.");
+	}
+	</script>
 </html>

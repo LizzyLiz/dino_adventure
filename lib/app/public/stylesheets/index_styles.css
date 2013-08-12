@@ -7,34 +7,10 @@ body {
 	background-color: #00CB9E;
 }
 
-.bottom_right{
-  position: fixed;
-  bottom: 0px;
-  left: 80%;
-}
-
-.bottom_left{
-	position: fixed;
-	bottom: 0px;
-	left: 0%;
-}
-
-.top_right{
-  position: fixed;
-  top: 0px;
-  left: 80%;
-}
-
-.top_left{
-	position: fixed;
-	top: 0px;
-	left: 0%;
-}
-
 button {
   color: #000;
   background-color: #DCDCDC;
-  padding: 90px 70px 90px !important;
+  padding: 10px 10px 10px !important;
   font-weight: bold;
   border-radius: 100px;
   -moz-border-radius: 15px;

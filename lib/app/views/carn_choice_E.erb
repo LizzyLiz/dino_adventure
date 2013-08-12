@@ -4,21 +4,30 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets\styles.css"></head>
 	</head>
 	<body style="background-image: url('pics/albertosaurus.jpg'); background-size: cover;">
-		<h1>You leave the dino alone and go on about your daily life. Eventually you make more friends with other carnivore in including a Albertosaurus who is really greedy but is tough and likes to protct their mates.<br>You hear rumors of mutany in your pack however so you come to the conclusion that you must elimate one of them in order to show dominance.</h1>
+		<h1>You leave the dino alone and go on about your daily life. Eventually you make more friends with other carnivore in including a Albertosaurus who is really greedy but is tough and likes to protct their mates. There is also an Achillobator is is very loyal and humble, but very strong as well.<br>You hear rumors of mutiny in your pack however so you come to the conclusion that you must elimate one of them in order to show dominance.</h1>
 		<a href="/carn_death">
-			<button type="button">
-				<span>Eliminate the Albertosaurus</span>
+			<button type="button" onclick="eliminated()">
+				<span>Eliminate the Achillobator</span>
 			</button>
 		</a>
 		<a href="/carn_choice_F">
 			<button type="button">
-				<span>Eliminate the Achillobator</span>
+				<span>Eliminate the Albertosaurus</span>
 			</button>
 		</a>
 		<a href="/carn_death">
-			<button type="button">
+			<button type="button" onclick="mutiny()">
 				<span>Live on with the mutiny.</span>
 			</button>
 		</a>
 	</body>
+	<script>
+	function mutiny() {
+		alert("After trying to live on with the mutiny, your pack becomes completely chaotic and everyone tries to kill everyone. Sadly, you were not able to survive this outbreak.");
+	}
+
+	function eliminated() {
+		alert("You were not strong enough to eliminate the Achillobator, and instead he eliminated you.");
+	}
+	</script>
 </html>
