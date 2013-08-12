@@ -6,7 +6,7 @@
 	<body style="background-image: url('pics/herb_choice_G_img.jpg'); background-size: cover;">
 		<h1>To your suprise, these vicious Dinos love you! The leader of the herd is the Giganotosaurus, who is one of the most aggressive dinosaurs of them all. He is gigantic, weighs over 8 tons, and is a carnivore who has 3 fingered hands and sharp claws to slay his prey.<br>Everyone starts to notice now that the land is beginning to freeze over. All the Dinos are now in panic. What will you do with your newfound group?</h1>
 		<a href="/herb_death">
-			<button type="button">
+			<button type="button" onclick="death()">
 				<span>Stick it out like a man</span>
 			</button>
 		</a>
@@ -22,4 +22,9 @@
 		</a>
 	</body>
 	<audio src = "music\dino_sound_main.mp3" preload = "auto" autoplay></audio>
+	<script>
+	function death() {
+		alert("The land froze over and there was no food left for you to eat, so you died of hunger.");
+	}
+	</script>
 </html>

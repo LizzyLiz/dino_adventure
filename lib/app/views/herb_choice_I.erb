@@ -5,8 +5,8 @@
 	</head>
 	<body style="background-image: url('pics/angry_dinos.jpg'); background-size: cover;">
 		<h1>After killing your first Dinosaur, people begin to hate you. Many Dinos want to get revenge on you and start to get aggressive. The T-Rex is especially mad at you because the Stegosaurus was one of his best friends. The T-Rex is extremely strong and deadly. Him and the other Dinos start to pick fights and say they will kill you if you dont leave. What do you do?</h1>
-		<a href="/triceratops_death">
-			<button type="button">
+		<a href="/herb_death">
+			<button type="button" onclick="death()">
 				<span>Head North</span>
 			</button>
 		</a>
@@ -22,4 +22,9 @@
 		</a>
 	</body>
 	<audio src = "music\trex_call.mp3" preload = "auto" autoplay></audio>
+	<script>
+	function death() {
+		alert("It is MUCH colder in the North than it is where you live. You froze to death in the northern mountains.");
+	}
+	</script>
 </html>

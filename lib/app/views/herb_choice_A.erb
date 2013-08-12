@@ -6,7 +6,7 @@
 	<body style="background-image: url('pics/triceratops.jpg'); background-size: cover;">
 		<h1>Hello young one and welcome to the world. You are what we call a Triceratops. You are a plant eating dinosaur and a future king of all dinos. Animals who only eat plants are called herbivores. Here is your first set of choices.</h1>
 		<a href="/herb_death">
-			<button type="button">
+			<button type="button" onclick="death()">
 				<span>Eat yummy thorn plants</span>
 			</button>
 		</a>
@@ -22,4 +22,9 @@
 		</a>
 	</body>
 	<audio src = "music\Triceratops Roar.mp3" preload = "auto" autoplay></audio>
+	<script>
+	function death() {
+		alert("The thorns in the plants that you ate were tasty, but not very good for you. You died because your stomach couldn't digest it well enough.");
+	}
+	</script>
 </html>
